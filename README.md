@@ -63,5 +63,3 @@ In the project directory, you can run:
 * **`npm run lint`** or **`yarn lint`**: Lints the project files using ESLint.
 
 * **`npm run preview`** or **`yarn preview`**: Serves the production build locally for previewing.
-
-## Project Structure (Simplified)
